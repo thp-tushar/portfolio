@@ -7,8 +7,9 @@ export const featuresData = [
     description: [
       "Engineered real-time video conferencing platform with dynamic rooms and scalable P2P communication.",
       "Implemented custom WebRTC signaling with STUN/TURN integration for low-latency connectivity.",
-      "Optimized connection flows using modular SDP handling to improve reliability and stability."
+      "Optimized connection flows using modular SDP handling to improve reliability and stability.",
     ],
+    url:"https://github.com/thp-tushar/todo_redux"
   },
   {
     icon: Vault,

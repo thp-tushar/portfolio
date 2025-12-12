@@ -1,22 +1,52 @@
 export const companiesLogo = [
     {
-        name: "Framer",
-        logo: "/assets/companies-logo/framer.svg",
+        name: "React.js",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "React.js"
     },
     {
-        name: "Huawei",
-        logo: "/assets/companies-logo/huawei.svg",
+        name: "Next.js",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "Next.js"
     },
     {
-        name: "Instagram",
-        logo: "/assets/companies-logo/instagram.svg",
+        name: "MongoDB",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "MongoDB"
     },
     {
-        name: "Microsoft",
-        logo: "/assets/companies-logo/microsoft.svg",
+        name: "Java",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "Java"
     },
     {
-        name: "Walmart",
-        logo: "/assets/companies-logo/walmart.svg",
+        name: "C",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "C"
+    },
+    {
+        name: "C++",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "C++"
+    },
+    {
+        name: "Python",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "Python"
+    },
+    {
+        name: "TailwindCSS",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "TailwindCSS"
+    },
+    {
+        name: "Node.js",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "Node.js"
+    },
+    {
+        name: "Github",
+        logo: "/assets/companies-logo/tech.svg",
+        text: "Github"
     }
 ];

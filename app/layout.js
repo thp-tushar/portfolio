@@ -10,8 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-    title: "Landing - PrebuiltUI",
-    description: "Landing is a SaaS template for developers to build SaaS applications.",
+    title: "tushar_thapliyal",
 };
 
 export default function RootLayout({ children }) {

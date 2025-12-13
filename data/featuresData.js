@@ -19,6 +19,7 @@ export const featuresData = [
       "Integrated IoT energy validation with MetaMask authentication for trustless exchanges.",
       "Optimized transactions with gas efficiency and Chainlink VRF for secure randomness."
     ],
+    url:"https://github.com/thp-tushar/Blockchain-based-CarbonCredit-Exchange-System"
   },
   {
     icon: Gauge,
@@ -28,5 +29,6 @@ export const featuresData = [
       "Ensured thread-safe concurrency with synchronization & ScheduledExecutorService.",
       "Showcased Java Concurrency API and OOP design in a scalable system."
     ],
+    url:"https://github.com/thp-tushar/JRate_Limiter"
   },
 ];

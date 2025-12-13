@@ -11,21 +11,26 @@ export default function Footer() {
                 <div className="md:max-w-114">
                     <p className="text-2xl"> Tushar Thapliyal</p>
                     <p className="mt-6">
-                        I am a software engineer based in India with a 
-                        strong focus on building modern, scalable web applications. 
-                        I work primarily with JavaScript, React, Next.js, 
-                        and backend technologies to create efficient, user-friendly solutions. 
-                        I enjoy solving real-world problems through clean code, 
-                        performance optimization, and continuous learning, 
+                        I am a software engineer based in India with a
+                        strong focus on building modern, scalable web applications.
+                        I work primarily with JavaScript, React, Next.js,
+                        and backend technologies to create efficient, user-friendly solutions.
+                        I enjoy solving real-world problems through clean code,
+                        performance optimization, and continuous learning,
                         while staying aligned with industry best practices.
                     </p>
                 </div>
                 <div className="flex-1 flex items-start md:justify-end gap-20">
-                    
+
                     <div>
                         <h2 className="font-semibold mb-5">Get in touch</h2>
                         <div className="space-y-2">
-                            <p>+91-9717899782</p>
+                            <p>
+                                <a href="tel:+919717899782">
+                                    +91-9717899782
+                                </a>
+                            </p>
+
                             <p className="border rounded-2xl w-60 h-8 flex items-center justify-center">
                                 <a href="mailto:tusharthapliyal72@gmail.com">tusharthapliyal72@gmail.com</a>
                             </p>
